@@ -1,7 +1,5 @@
 # DLthon_3team
 
-## **Dataset of Korean Threatening Conversations**
-
 ### **1. 문제 정의**
 
 ***
